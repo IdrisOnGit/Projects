@@ -157,5 +157,5 @@ It's primarily used for tasks such as data retrieval, insertion, updating, and d
 While SQL can interact with web data through databases where web data might be stored, 
 it doesn't provide native capabilities for web scraping. To perform web scraping, 
 i would generally utilize a visualization tool of choice or a programming language like Python along with appropriate libraries.
-Checkout my visual(s) on Excel/PowerBi or Tableau to see the the outcome of the webscrabing carried out
+Checkout my PowerBi visual(s) to see the the outcome of the webscrabing carried out.
 */
